@@ -1,0 +1,408 @@
+{
+  "ver": "2.3.4",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "5e0602e1-8b8e-44c4-bea8-316b0908b2ef",
+  "files": [
+    "__original-animation-0.cconb",
+    "__original-animation-1.cconb",
+    "__original-animation-2.cconb",
+    "__original-animation-3.cconb"
+  ],
+  "subMetas": {
+    "4f4f4": {
+      "importer": "gltf-mesh",
+      "uuid": "5e0602e1-8b8e-44c4-bea8-316b0908b2ef@4f4f4",
+      "displayName": "",
+      "id": "4f4f4",
+      "name": "Object_0.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "db32a": {
+      "importer": "gltf-mesh",
+      "uuid": "5e0602e1-8b8e-44c4-bea8-316b0908b2ef@db32a",
+      "displayName": "",
+      "id": "db32a",
+      "name": "Object_1.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ba1aa": {
+      "importer": "gltf-mesh",
+      "uuid": "5e0602e1-8b8e-44c4-bea8-316b0908b2ef@ba1aa",
+      "displayName": "",
+      "id": "ba1aa",
+      "name": "Object_2.mesh",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9888b": {
+      "importer": "gltf-mesh",
+      "uuid": "5e0602e1-8b8e-44c4-bea8-316b0908b2ef@9888b",
+      "displayName": "",
+      "id": "9888b",
+      "name": "Object_3.mesh",
+      "userData": {
+        "gltfIndex": 3
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "dc888": {
+      "importer": "gltf-animation",
+      "uuid": "5e0602e1-8b8e-44c4-bea8-316b0908b2ef@dc888",
+      "displayName": "",
+      "id": "dc888",
+      "name": "Walking.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 1.0666667222976685
+        },
+        "events": [],
+        "embeddedPlayers": [],
+        "editorExtras": {
+          "embeddedPlayerGroups": []
+        },
+        "speed": 1
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "5f563": {
+      "importer": "gltf-animation",
+      "uuid": "5e0602e1-8b8e-44c4-bea8-316b0908b2ef@5f563",
+      "displayName": "",
+      "id": "5f563",
+      "name": "Dance.animation",
+      "userData": {
+        "gltfIndex": 1,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 12.899999618530273
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "f4113": {
+      "importer": "gltf-animation",
+      "uuid": "5e0602e1-8b8e-44c4-bea8-316b0908b2ef@f4113",
+      "displayName": "",
+      "id": "f4113",
+      "name": "Jump.animation",
+      "userData": {
+        "gltfIndex": 2,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 1.5
+        },
+        "events": [],
+        "embeddedPlayers": [],
+        "editorExtras": {
+          "embeddedPlayerGroups": []
+        },
+        "speed": 1
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "c2696": {
+      "importer": "gltf-animation",
+      "uuid": "5e0602e1-8b8e-44c4-bea8-316b0908b2ef@c2696",
+      "displayName": "",
+      "id": "c2696",
+      "name": "Idle.animation",
+      "userData": {
+        "gltfIndex": 3,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 2.0333333015441895
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "438fe": {
+      "importer": "gltf-skeleton",
+      "uuid": "5e0602e1-8b8e-44c4-bea8-316b0908b2ef@438fe",
+      "displayName": "",
+      "id": "438fe",
+      "name": "UnnamedSkeleton.skeleton",
+      "userData": {
+        "gltfIndex": 0,
+        "jointsLength": 49
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3effa": {
+      "importer": "texture",
+      "uuid": "5e0602e1-8b8e-44c4-bea8-316b0908b2ef@3effa",
+      "displayName": "",
+      "id": "3effa",
+      "name": "UnnamedTexture-0.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "linear",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/Pikachu/textures/Material_160_baseColor.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "221a5": {
+      "importer": "texture",
+      "uuid": "5e0602e1-8b8e-44c4-bea8-316b0908b2ef@221a5",
+      "displayName": "",
+      "id": "221a5",
+      "name": "UnnamedTexture-1.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "linear",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/Pikachu/textures/Material.001_baseColor.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0089c": {
+      "importer": "texture",
+      "uuid": "5e0602e1-8b8e-44c4-bea8-316b0908b2ef@0089c",
+      "displayName": "",
+      "id": "0089c",
+      "name": "UnnamedTexture-2.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "linear",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/Pikachu/textures/Material.003_baseColor.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9b633": {
+      "importer": "texture",
+      "uuid": "5e0602e1-8b8e-44c4-bea8-316b0908b2ef@9b633",
+      "displayName": "",
+      "id": "9b633",
+      "name": "UnnamedTexture-3.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "linear",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/Pikachu/textures/Material.002_baseColor.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d1932": {
+      "importer": "gltf-scene",
+      "uuid": "5e0602e1-8b8e-44c4-bea8-316b0908b2ef@d1932",
+      "displayName": "",
+      "id": "d1932",
+      "name": "scene.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "uri": "db://assets/Pikachu/textures/Material_160_baseColor.png"
+      },
+      {
+        "uri": "db://assets/Pikachu/textures/Material.001_baseColor.png"
+      },
+      {
+        "uri": "db://assets/Pikachu/textures/Material.003_baseColor.png"
+      },
+      {
+        "uri": "db://assets/Pikachu/textures/Material.002_baseColor.png"
+      }
+    ],
+    "animationImportSettings": [
+      {
+        "name": "Walking",
+        "duration": 1.0666667222976685,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Walking",
+            "from": 0,
+            "to": 1.0666667222976685,
+            "wrapMode": 2
+          }
+        ]
+      },
+      {
+        "name": "Dance",
+        "duration": 12.899999618530273,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Dance",
+            "from": 0,
+            "to": 12.899999618530273,
+            "wrapMode": 2
+          }
+        ]
+      },
+      {
+        "name": "Jump",
+        "duration": 1.5,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Jump",
+            "from": 0,
+            "to": 1.5,
+            "wrapMode": 2
+          }
+        ]
+      },
+      {
+        "name": "Idle",
+        "duration": 2.0333333015441895,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Idle",
+            "from": 0,
+            "to": 2.0333333015441895,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "5e0602e1-8b8e-44c4-bea8-316b0908b2ef@d1932",
+    "assetFinder": {
+      "meshes": [
+        "5e0602e1-8b8e-44c4-bea8-316b0908b2ef@4f4f4",
+        "5e0602e1-8b8e-44c4-bea8-316b0908b2ef@db32a",
+        "5e0602e1-8b8e-44c4-bea8-316b0908b2ef@ba1aa",
+        "5e0602e1-8b8e-44c4-bea8-316b0908b2ef@9888b"
+      ],
+      "skeletons": [
+        "5e0602e1-8b8e-44c4-bea8-316b0908b2ef@438fe"
+      ],
+      "textures": [
+        "5e0602e1-8b8e-44c4-bea8-316b0908b2ef@3effa",
+        "5e0602e1-8b8e-44c4-bea8-316b0908b2ef@221a5",
+        "5e0602e1-8b8e-44c4-bea8-316b0908b2ef@0089c",
+        "5e0602e1-8b8e-44c4-bea8-316b0908b2ef@9b633"
+      ],
+      "materials": [
+        "963be05f-e056-49e5-a7cd-5d2e61985526",
+        "78161c2f-213d-4ebe-94de-80ba6b2992a7",
+        "430cea12-432b-440e-8cde-a78b3548bc82",
+        "c257c7a4-9525-42f6-97ec-3eec766ce1de"
+      ],
+      "scenes": [
+        "5e0602e1-8b8e-44c4-bea8-316b0908b2ef@d1932"
+      ]
+    },
+    "dumpMaterials": true,
+    "materialDumpDir": "db://assets/Pikachu/Materials_scene"
+  }
+}
