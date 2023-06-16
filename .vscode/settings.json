@@ -5,5 +5,9 @@
   "files.exclude": {
     "**/*.meta": true
   },
-  "editor.renderWhitespace": "all"
+  "editor.renderWhitespace": "all",
+  "cSpell.words": [
+    "ccclass",
+    "pikachu"
+  ]
 }
